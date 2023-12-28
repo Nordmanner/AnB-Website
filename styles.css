@@ -1,0 +1,21 @@
+html{
+    width : 100vw;
+    height : 100vh;
+    background-image: linear-gradient(red, orange);
+    color : whitesmoke;
+}
+
+header{
+    font-size : 20px;
+    text-align: center;
+}
+
+#intro {
+    text-align: center;
+}
+
+.sec{
+    border : 5px outset gold;
+    background-color : orangered;
+    margin : 10%
+}
